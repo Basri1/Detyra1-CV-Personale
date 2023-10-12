@@ -1,0 +1,113 @@
+Ky README përmban informacion rreth etiketave dhe elementeve të HTML që janë përdorur në faqen e Curriculum Vitae (CV) tuaj. Kjo do të ndihmojë në kuptimin e strukturës dhe organizimit të informacionit në CV tuaj.
+Përmbajtja e Dokumentit
+<!DOCTYPE html>
+
+    Kjo etiketë shpall versionin HTML që është përdorur në dokument (HTML5 në këtë rast).
+
+<html>
+
+    Kjo është etiketa e fillimit të dokumentit HTML dhe përfshin gjithë përmbajtjen e dokumentit.
+
+<head>
+
+    Kjo etiketë përfshin informacione rreth dokumentit, si titulli i faqes që shfaqet në shiritin e titullit të shfletuesit.
+
+<title>
+
+    Kjo etiketë vendos titullin e dokumentit, që shfaqet në shiritin e titullit të shfletuesit. Në këtë rast, titulli është "Curriculum Vitae (CV)".
+
+<body>
+
+    Kjo etiketë përmban përmbajtjen e vizatuar në faqe, përfshinë informacionin personal, përvojën e punës, arsimin, aftësitë personale dhe kompetencat, si dhe informacionin shtesë.
+
+Informacion Personal
+<fieldset>
+
+    Kjo etiketë shpërndan një grup të elementeve në një fushë formulari. Në këtë rast, është përdorur për të grupuar të dhënat personale.
+
+<legend>
+
+    Kjo etiketë vendos një titull për fushën e formularit të përshkruar me <fieldset>. Në këtë rast, titulli është "Informacion Personal".
+
+<div>
+
+    Kjo etiketë përdoret për të krijuar një "div" ose një zonë të ndarë për përmbajtjen.
+
+<img>
+
+    Kjo etiketë vendos një imazh në faqen e internetit. Përmban atributet "src" (burimi i imazhit) dhe "width" (gjerësia e imazhit).
+
+<ul>
+
+    Kjo etiketë përdoret për të krijuar një listë të parregullt (unordered list) për të paraqitur informacionin personal si emrin, datën e lindjes, adresën, numrin e telefonit dhe adresën e emailit.
+
+Pëvoja e Punës
+<h1>
+
+    Kjo etiketë shpërndan një titull të nivelit 1 për seksionin "Pëvoja e Punës".
+
+<hr>
+
+    Kjo etiketë vendos një vijë horizontale për të ndarë seksionet në CV dhe harton një linjë ndarëse.
+
+<ol>
+
+    Kjo etiketë përdoret për të krijuar një listë të rregullt (ordered list) për të paraqitur përvojën tuaj të punës në një rend të caktuar.
+
+<li>
+
+    Kjo etiketë përfaqëson një element të listës dhe përmban përvojën e punës tuaj, duke përfshirë titullin e pozitës, datat e punës, aktivitetet kryesore dhe përgjegjësitë.
+
+<h2>
+
+    Kjo etiketë shpërndan një titull të nivelit 2 për pozitën e punës.
+
+<ul>
+
+    Kjo etiketë përdoret për të krijuar një listë të parregullt për të paraqitur informacionin rreth çdo pozite pune, përfshirë punëdhënësin, sektorin, dhe një hartë Google Maps nëpërmjet etiketës <iframe>.
+
+<iframe>
+
+    Kjo etiketë vendos një hartë Google Maps në dokument. Përfshin atributin "src" që tregon burimin e hartës, "width" dhe "height" për madhësinë e hartës.
+
+Arsimit dhe Trajnimet
+<ul>
+
+    Kjo etiketë përdoret për të krijuar një listë të parregullt për të paraqitur informacionin rreth arsimit dhe trajnimeve.
+
+<h2>
+
+    Kjo etiketë shpërndan një titull të nivelit 2 për çdo shkollë ose institucion të arsimit.
+
+Trajnime dhe Kurse Shtesë
+<ul>
+
+    Kjo etiketë përdoret për të krijuar një listë të parregullt për të paraqitur informacionin rreth trajnimeve dhe kurseve shtesë.
+
+<li>
+
+    Kjo etiketë përfaqëson një element të listës dhe përmban informacionin mbi trajnimet dhe kurset shtesë.
+
+Aftësi Personale dhe Kompetencat
+<ul>
+
+    Kjo etiketë përdoret për të krijuar një listë të parregullt për të paraqitur aftësitë personale dhe kompetencat tuaja, duke përfshirë gjuhët që flisni dhe njohuritë e tjera.
+
+Informacion Shtesë
+<form>
+
+    Kjo etiketë përdoret për të krijuar një formular në faqen e internetit. Në këtë rast, është përdorur për të vendosur informacionin shtesë që mund të dërgohet me anë të formularit.
+
+<label>
+
+    Kjo etiketë shpërndan një etiketë për një element të inputit në formular. Përshkruan se çfarë duhet të vendoset në input.
+
+<textarea>
+
+    Kjo etiketë përfaqëson një fushë për tekst të zgjeruar, ku mund të vendosni informacionin shtesë.
+
+<input>
+
+    Kjo etiketë përfaqëson një element input në formular, ku mund të vendosni një buton "Submit" për të dërguar informacionin shtesë.
+
+Ky README do të ndihmojë në kuptimin e strukturës së CV-së suaj HTML dhe do të lehtësojë ndryshimet dhe përditësimet në dokumentin tuaj. Ju mund të ndryshoni përmbajtjen dhe stilin e CV-së tuaj në përputhje me nevojat tuaja. Suksese me krijimin dhe përshtatjen e CV-së suaj në HTML!
