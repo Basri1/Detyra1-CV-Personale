@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(215, 239, 250);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+a {
+    color: rgb(19, 8, 91);
+    text-decoration: none;
+}
+
+.content, 
+.content p {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.content a {
+    color: aliceblue;
+    text-decoration: none;
+    background-color: rgb(18, 7, 86);
+    padding: 8px 20px;
+}
+
+#shiko-ketu-punes {
+    margin-top: 40px;
+}
+
+#shiko-ketu-arsimi {
+    margin-top: 40px;
+}
+
+#shiko-ketu-shkathtesite {
+    margin-top: 40px;
+}

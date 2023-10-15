@@ -110,4 +110,25 @@ Informacion Shtesë
 
     Kjo etiketë përfaqëson një element input në formular, ku mund të vendosni një buton "Submit" për të dërguar informacionin shtesë.
 
-Ky README do të ndihmojë në kuptimin e strukturës së CV-së suaj HTML dhe do të lehtësojë ndryshimet dhe përditësimet në dokumentin tuaj. Ju mund të ndryshoni përmbajtjen dhe stilin e CV-së tuaj në përputhje me nevojat tuaja. Suksese me krijimin dhe përshtatjen e CV-së suaj në HTML!
+
+
+# Stili CSS për CV të Basri Bekës
+
+Ky fajll "style.css" është përdorur për të stilitizuar CV-në e Basri Bekës. Kjo është një përshkrim i shkurtër i stilimit dhe ndryshimeve të bëra në fajllin CSS.
+
+## Përshkrimi i Elementëve Kryesorë:
+
+- `body`: Cakton një sfond ngjyrë blu për tërë faqen. Marginat dhe padding-un janë të vendosura në zero për të hequr hapësirat e panevojshme.
+
+- `h1`: Për titullin kryesor të informacionit personal, cakton një madhësi të tekstit, një stil fonti të caktuar, dhe qendrim të tekstit në qendër.
+
+- `a`: Për lidhjet (a) të ndryshon ngjyrën e tekstit dhe heq nënvizimin e lidhjeve.
+
+- `.content, .content p`: Aplikon stile të tekstit dhe përmbajtjes brenda klases "content" dhe paraqitjes së paragrafeve brenda kësaj klase. Teksti është i qendrueshëm dhe ka një hapësirë të caktuar poshtë tekstit.
+
+- `.content a`: Për stilizimin e lidhjeve brenda klases "content". Ndryshon ngjyrën e tekstit, shikon si tekst mbi një sfond të zi, dhe ka një kufi të rrethuar.
+
+- `#shiko-ketu-punes, #shiko-ketu-arsimi, #shiko-ketu-shkathtesite`: Për stilitizimin e id-ve të caktuara. Në këtë rast, cakton një hapësirë mbi elementët përkatës.
+
+Ju mund ta përshtatni fajllin "style.css" për të ndryshuar ngjyrat, margjinat, ose stilet e tjera sipas preferencave tuaja. Kjo është vetëm një konfigurim fillestar dhe mund ta modifikoni për të përputhur me dizajnin tuaj të dëshiruar.
+Ky README do të ndihmojë në kuptimin e strukturës së CV-së suaj HTML dhe do të lehtësojë ndryshimet dhe përditësimet në dokumentin tuaj. Ju mund të ndryshoni përmbajtjen dhe stilin e CV-së tuaj në përputhje me nevojat tuaja. Suksese me krijimin dhe përshtatjen e CV-së suaj në HTML dhe CSS!
